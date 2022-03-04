@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.font-link {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+    background: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url(http://cdn.playbuzz.com/cdn/3c94decd-bc31-4bb5-85aa-3f1445da3c23/525e0656-8cee-4cd9-8ca7-f1a2348d2dd8.jpg) fixed;
+     background-size: cover;
+     background-position: center;
+ }
